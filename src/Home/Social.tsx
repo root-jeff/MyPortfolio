@@ -24,7 +24,7 @@ export const Social = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <i class={`uil uil-${media}`}></i>
+          <i className={`uil uil-${media}`}></i>
         </a>
       ))}
     </div>
