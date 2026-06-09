@@ -1,0 +1,9 @@
+{
+  "short_name": "JP Portfolio",
+  "name": "Jefferson Palma Portfolio",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F172A",
+  "background_color": "#0F172A"
+}
